@@ -36,3 +36,6 @@ p.centro {
     text-align: center;
 }
 
+address {
+  clear: both;
+}
